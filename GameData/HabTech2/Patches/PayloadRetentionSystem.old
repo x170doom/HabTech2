@@ -3,7 +3,7 @@
 {
 	MODEL
 	{
-		model = PayloadRetentionSystemNext/Parts/TrunnionPins/TrunnionPins
+		model = PayloadRetentionSystemNext/Parts/TrunnionPins/TrunnionPins45
 		rotation = 0, 0, 90
 	}
 	MODULE
@@ -23,7 +23,7 @@
 {
 	MODEL
 	{
-		model = PayloadRetentionSystemNext/Parts/TrunnionPins/TrunnionPins
+		model = PayloadRetentionSystemNext/Parts/TrunnionPins/TrunnionPins45
 		rotation = 0, 0, 90
 	}
 	MODULE
